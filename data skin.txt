@@ -5,7 +5,7 @@
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":true,
+      "show_cpa":false,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
@@ -22,10 +22,10 @@
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-2104987-1",
-      "native_yandex":"R-M-2104987-2",
-      "interstitial_yandex":"R-M-2104987-4",
-      "rewarde_yandex":"R-M-2104987-5",
+      "banner_yandex":"R-M-2121819-1",
+      "native_yandex":"R-M-2121819-2",
+      "interstitial_yandex":"R-M-2121819-3",
+      "rewarde_yandex":"R-M-2121819-4",
 
       "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
@@ -48,7 +48,7 @@
     "skins": [
     {
       "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
+      "title": "Pack  1",
       "likeNumbers": "222 LIKES",
       "commentNumbers": " 333 COMMENTS",
       "downloadNumbers": "444 DOWNLOADS",
